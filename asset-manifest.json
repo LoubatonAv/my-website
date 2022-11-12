@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.348d8a8a.css",
+    "main.js": "/my-website/static/js/main.39e11f13.js",
+    "static/js/787.633816a4.chunk.js": "/my-website/static/js/787.633816a4.chunk.js",
+    "static/media/lolmemory.png": "/my-website/static/media/lolmemory.0ad5b7e3c75b36c27456.png",
+    "static/media/header-bg2.jpg": "/my-website/static/media/header-bg2.83f146c2fd0845951a4b.jpg",
+    "static/media/Montserrat-Regular.ttf": "/my-website/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/whistletabs.jpg": "/my-website/static/media/whistletabs.e121634b04f96448cda8.jpg",
+    "static/media/bird-animation.gif": "/my-website/static/media/bird-animation.f5dfac7d6996d3525053.gif",
+    "static/media/hosty2.jpg": "/my-website/static/media/hosty2.e59e7b7b230547dc888f.jpg",
+    "static/media/minesweeper.gif": "/my-website/static/media/minesweeper.aa5abb04efd8e7afae76.gif",
+    "static/media/GloriaHallelujah-Regular.ttf": "/my-website/static/media/GloriaHallelujah-Regular.c9da976c6f9088d1b3c9.ttf",
+    "static/media/facebook.jpg": "/my-website/static/media/facebook.12d4465a1fbb1744d69b.jpg",
+    "static/media/logo.png": "/my-website/static/media/logo.9a15203b77e92d71c948.png",
+    "static/media/avataaars.svg": "/my-website/static/media/avataaars.20d4fb728418afb5d992d45e370b3f08.svg",
+    "static/media/nodejs.svg": "/my-website/static/media/nodejs.dd47e26ed1d7dddf018e5cbffc40f76d.svg",
+    "static/media/postman.svg": "/my-website/static/media/postman.e65afafee644ce9fe8a727d01b403189.svg",
+    "static/media/sass.svg": "/my-website/static/media/sass.8aa78a8393470431c8036541f0708bd7.svg",
+    "static/media/remix.svg": "/my-website/static/media/remix.b37a2bc07f5150f77764c6a82dcb5d8d.svg",
+    "static/media/tailwind.svg": "/my-website/static/media/tailwind.160d3de3a73a551fed84370fcf32a83f.svg",
+    "static/media/github.svg": "/my-website/static/media/github.e0d7d7254ac0545743fc7af09c1e977b.svg",
+    "static/media/icons8-github.svg": "/my-website/static/media/icons8-github.9ddc7a56bfbfa80dd3acdccfa9ab1764.svg",
+    "static/media/prisma.svg": "/my-website/static/media/prisma.99a983e3f438d1c36ee8549e97dde6f3.svg",
+    "static/media/js.svg": "/my-website/static/media/js.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "index.html": "/my-website/index.html",
+    "static/media/css.svg": "/my-website/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html.svg": "/my-website/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "static/media/icons8-linkedin-circled.svg": "/my-website/static/media/icons8-linkedin-circled.c5c41af50d5e0f390f0f9cd997ee24fe.svg",
+    "static/media/react.svg": "/my-website/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.348d8a8a.css.map": "/my-website/static/css/main.348d8a8a.css.map",
+    "main.39e11f13.js.map": "/my-website/static/js/main.39e11f13.js.map",
+    "787.633816a4.chunk.js.map": "/my-website/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.348d8a8a.css",
+    "static/js/main.39e11f13.js"
+  ]
+}
