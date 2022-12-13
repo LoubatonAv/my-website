@@ -70,6 +70,7 @@ body {
 body {
   margin: 0;
 }
+
 .wrapper {
   display: flex;
   height: 20vh;

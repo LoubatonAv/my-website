@@ -33,11 +33,18 @@ const Projects = () => {
                 <p class='mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100'>
                   A website inspired by AirBnB.
                 </p>
-                <div className='text-white flex gap-2 pb-2 text-base'>
-                  <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>Sass</span>
-                  <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>React</span>
-                  <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>MongoDB</span>
-                  <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>NodeJS</span>
+                <div className='text-white flex gap-2 pb-2 text-sm flex-col'>
+                  <div className='gap-2 flex justify-center'>
+                    <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>Sass</span>
+                    <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>React</span>
+                    <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>MongoDB</span>
+                  </div>
+
+                  <div className='gap-2 flex'>
+                    <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>NodeJS</span>
+                    <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>Socket.IO</span>
+                    <span className='bg-white rounded-full font-semibold text-black py-1 px-2'>Authentication</span>
+                  </div>
                 </div>
                 <div className='flex gap-2'>
                   <a
@@ -48,7 +55,7 @@ const Projects = () => {
                     GitHUB
                   </a>
                   <a
-                    href='https://hosty-bnb-webapp.herokuapp.com/'
+                    href='https://hosty-airbnb.herokuapp.com/'
                     target='_blank'
                     rel='noreferrer'
                     class='rounded-full bg-neutral-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60 hover:bg-white hover:text-black'>
@@ -128,7 +135,7 @@ const Projects = () => {
                     GitHUB
                   </a>
                   <a
-                    href='https://whistletabs.herokuapp.com/'
+                    href='https://whistletab.herokuapp.com/'
                     target='_blank'
                     rel='noreferrer'
                     class='rounded-full bg-neutral-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60 hover:bg-white hover:text-black'>
