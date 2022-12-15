@@ -48,7 +48,7 @@ const Intro = () => {
                     value='a'
                     name='radio-buttons'
                     inputProps={{ 'aria-label': 'A' }}
-                    onClick={() => setWidth(32)}
+                    onClick={() => setWidth(30)}
                     color={'blue'}
                   />
                   <div className='text-sm'>short</div>
@@ -60,7 +60,7 @@ const Intro = () => {
                     value='B'
                     name='radio-buttons'
                     inputProps={{ 'aria-label': 'B' }}
-                    onClick={() => setWidth(89)}
+                    onClick={() => setWidth(155)}
                     color={'blue1'}
                   />
                   <div></div>
@@ -73,7 +73,7 @@ const Intro = () => {
                     value='c'
                     name='radio-buttons'
                     inputProps={{ 'aria-label': 'C' }}
-                    onClick={() => setWidth(187)}
+                    onClick={() => setWidth(185)}
                     color={'blue2'}
                   />
                   <div></div>
@@ -86,7 +86,7 @@ const Intro = () => {
                     value='d'
                     name='radio-buttons'
                     inputProps={{ 'aria-label': 'D' }}
-                    onClick={() => setWidth(255)}
+                    onClick={() => setWidth(252)}
                     color={'blue3'}
                   />
                 </div>
@@ -97,7 +97,7 @@ const Intro = () => {
                     value='f'
                     name='radio-buttons'
                     inputProps={{ 'aria-label': 'F' }}
-                    onClick={() => setWidth(298)}
+                    onClick={() => setWidth(363)}
                     color={'blue3'}
                   />
                   <div className='text-sm'>long</div>
@@ -121,9 +121,10 @@ const Intro = () => {
           <div className='text-left gap-1 bg-white p-10 rounded-2xl'>
             <div className='font-semibold text-[#64B5F6]'>Avner Luvton</div>
             <ReactReadMoreReadLess charLimit={width} readMoreText={false} readLessText={false} ellipsis={'.'}>
-              is an eager software developer, trying his best to the best software developer he can be. has BS.c in
-              Information Systems. loves designing friendly, creative and precise user experience. has great
-              interpersonal relations and currently lives in Qiryat Atta but will be more than happy to relocate 😄.
+              is an eager software developer who looks forward to dealing with new challenges and enjoys growing and
+              learning new things as a person and as a developer. has BS.c in Information Systems. loves designing
+              friendly, creative and precise user experience. has great interpersonal relations and currently lives in
+              Qiryat Atta but will be more than happy to relocate 😄.
             </ReactReadMoreReadLess>
           </div>
         </motion.div>
