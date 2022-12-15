@@ -12,7 +12,7 @@ import { TypeAnimation } from 'react-type-animation';
 const Projects = () => {
   return (
     //link to projects
-    <div className='' id='projects'>
+    <div id='projects'>
       <h1 className='pt-32 text-5xl pb-10 text-center font-gloria italic'>
         Some of my projects <span className='text-xs '>(so far...)</span>
       </h1>
