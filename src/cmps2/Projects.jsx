@@ -12,7 +12,7 @@ import { TypeAnimation } from 'react-type-animation';
 const Projects = () => {
   return (
     //link to projects
-    <div href='#projects'>
+    <div href='#projects' id='projects'>
       <h1 className='pt-32 text-5xl pb-10 text-center font-gloria italic'>
         Some of my projects <span className='text-xs '>(so far...)</span>
       </h1>
@@ -56,7 +56,7 @@ const Projects = () => {
                     GitHUB
                   </a>
                   <a
-                    href='https://hosty-airbnb.herokuapp.com/'
+                    href='https://hosty-backend-muhm.onrender.com/'
                     target='_blank'
                     rel='noreferrer'
                     class='rounded-full bg-neutral-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60 hover:bg-white hover:text-black'>
@@ -136,7 +136,7 @@ const Projects = () => {
                     GitHUB
                   </a>
                   <a
-                    href='https://whistletab.herokuapp.com/'
+                    href='https://whistle-tabs-api.onrender.com/'
                     target='_blank'
                     rel='noreferrer'
                     class='rounded-full bg-neutral-900 py-2 px-3.5 font-com text-sm capitalize text-white shadow shadow-black/60 hover:bg-white hover:text-black'>
